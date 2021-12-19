@@ -1,0 +1,10 @@
+.boxy {
+  height: 400px;
+  width: 400px;
+  background-color: lightgreen;
+  transition-property: background-color;
+}
+
+.boxy:hover {
+  background-color: green;
+}
